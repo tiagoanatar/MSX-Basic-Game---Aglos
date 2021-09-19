@@ -11,8 +11,11 @@ In the palaces of Aglos, there resides the one that should not be remembered. Hi
 
 # How to Play
 Game is on diskette
+
 Just load the DSK file on drive A
+
 Type: LOAD"G.BAS",R
+
 Type: RUN and hit 'enter'
 
 # About MSX
