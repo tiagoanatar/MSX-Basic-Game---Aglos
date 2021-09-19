@@ -10,10 +10,10 @@ The goal is to reach the top of the mountain and kill the evil god. Defeat rando
 In the palaces of Aglos, there resides the one that should not be remembered. His love for cruelty is the reason for the misfortunes of the world of Acad. All the others perished, you are the last warrior, the last who knows the truth. The lord of all things still sleeps. There will be no other chance. Your sword was anointed. The heart of God is exposed. There is no turning back. 100 men entered these halls, only one lives. Legions of evil guard the way. Choose your enemies wisely. God must die, or the world will cease to exist.
 
 # How to Play
-> Game is on diskette
-> Just load the DSK file on drive A
-> Type: LOAD"G.BAS",R
-> Type: RUN and hit 'enter'
+-Game is on diskette
+-Just load the DSK file on drive A
+-Type: LOAD"G.BAS",R
+-Type: RUN and hit 'enter'
 
 # About MSX
 MSX is a standardized home computer architecture, announced by Microsoft and ASCII Corporation on June 16, 1983. It was initially conceived by Microsoft as a product for the Eastern sector, and jointly marketed by Kazuhiko Nishi, then vice-president at Microsoft and director at ASCII Corporation. Microsoft and Nishi conceived the project as an attempt to create unified standards among various home computing system manufacturers of the period, in the same fashion as the VHS standard for home video tape machines.
